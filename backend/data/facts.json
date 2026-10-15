@@ -1,0 +1,24 @@
+{
+  "full_name": "Hillel García",
+  "name": "Hillel",
+  "current_role": "Software Engineer",
+  "email": "hola@gmail.com",
+  "specialties": [
+    "Software Engineering",
+    "Full Stack Development",
+    "AI/ML",
+    "Trading",
+    "Investing"
+  ],
+  "years_experience": 15,
+  "education": [
+    {
+      "degree": "Masters of Artificial Intelligence",
+      "year": "2026"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "year": "2010"
+    }
+  ]
+}
